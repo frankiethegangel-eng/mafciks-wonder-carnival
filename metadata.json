@@ -1,0 +1,7 @@
+{
+  "name": "Mafcik's Wonder Carnival",
+  "description": "Twenty little adventures, one unforgettable night. Created by Frankie for Julcia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
